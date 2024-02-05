@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React by Sahil Kumar",
+  "main": "React.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil1717kumar/React_learning.git"
+  },
+  "author": "Sahil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil1717kumar/React_learning/issues"
+  },
+  "homepage": "https://github.com/sahil1717kumar/React_learning#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
