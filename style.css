@@ -15,25 +15,38 @@
   padding: 10px;
   margin: 10px;
 }
-.res-container{
-    display: flex;
-    flex-wrap: wrap;
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
 }
-.res-card{
-    background-color: #f0f0f0;
-    padding: 5px;
-    width: 200px;
-    height: 300px;
-    
-    margin: 10px;
+.res-card {
+  background-color: #f0f0f0;
+  padding: 5px;
+  width: 200px;
+  margin: 10px;
 }
-.res-card:hover{
-    cursor: pointer;
-    border: 1px solid black;
+.res-card:hover {
+  cursor: pointer;
+  border: 1px solid black;
+}
+.filter {
+  padding: 10px;
+  display: flex;
+}
+.res-logo {
+  width: 190px;
+}
+.shimmer_container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer_card{
+  background-color:#f0f0f0;
+  padding: 5px;
+  width: 200px;
+  margin: 10px;
+  height: 300px;
 }
 .search{
-    padding: 10px;
-}
-.res-logo{
-    width: 190px;
+  margin: 0 10px;
 }
